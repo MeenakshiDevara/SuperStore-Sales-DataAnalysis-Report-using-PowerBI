@@ -1,4 +1,4 @@
-# SuperStore-Sales-DataAnalysis-Report-using-PowerBI
+# SuperStore-Sales-DataAnalysis-Dashbaord-using-PowerBI
 Objective: To contribute to the success of a business  by utilizing data analysis techniques, specially focusing on time series analysis, to provide valuable insights & accurate sales forecasting. 
 Based on the sales data we have, I will be forecasting the sales on the upcoming 15 days.
 
